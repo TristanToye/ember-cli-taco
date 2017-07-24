@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-taco/components/taco-me';
