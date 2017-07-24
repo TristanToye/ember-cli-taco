@@ -1,5 +1,33 @@
 # ember-cli-taco
 
+## Usage
+
+### Installation
+
+```
+ember install ember-cli-taco
+```
+
+### Get a taco
+
+Add a taco to your project easily with this addon.
+
+```
+{{taco-me}}
+```
+
+### Dress your taco
+
+```
+toppings = {
+  cheese: true
+}
+
+{{taco-me toppings=toppings}}
+```
+
+## Development
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
